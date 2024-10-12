@@ -1,2 +1,3 @@
 # HRbotRZHD
-chatbot
+чат-бот
+GigaChat, Langchain
