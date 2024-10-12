@@ -1,3 +1,3 @@
 # HRbotRZHD
 чат-бот
-GigaChat, Langchain
+Transformers, Langchain
